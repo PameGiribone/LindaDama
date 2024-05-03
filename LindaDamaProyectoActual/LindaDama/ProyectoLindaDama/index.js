@@ -14,17 +14,37 @@ BtnGranBretana.addEventListener('click', (e) => {
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 3"></button>
             </div>
         <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="./img/GranBretaña/GB-1.jpeg" class="d-block w-100" alt="Premio Gran Bretaña">
     </div>
     <div class="carousel-item">
-      <img src="./img/GranBretaña/GB-3.jpeg" class="d-block w-100 "  alt="Premio Gran Bretaña">
+      <img src="./img/GranBretaña/GB-2.jpeg" class="d-block w-100 "  alt="Premio Gran Bretaña">
     </div>
     <div class="carousel-item">
-      <img src="./img/GranBretaña/GB-4.jpeg" class="d-block w-100" alt="Premio Gran Bretaña">
+      <img src="./img/GranBretaña/GB-3.jpeg" class="d-block w-100" alt="Premio Gran Bretaña">
     </div>  
+    <div class="carousel-item">
+      <img src="./img/GranBretaña/GB-4.jpeg" class="d-block w-100" alt="Premio Gran Bretaña">
+    </div>
+    <div class="carousel-item">
+      <img src="./img/GranBretaña/GB-5.jpeg" class="d-block w-100" alt="Premio Gran Bretaña">
+    </div>
+    <div class="carousel-item">
+      <img src="./img/GranBretaña/GB-6.jpeg" class="d-block w-100" alt="Premio Gran Bretaña">
+    </div>
+    <div class="carousel-item">
+      <img src="./img/GranBretaña/GB-7.jpg" class="d-block w-100" alt="Premio Gran Bretaña">
+    </div>
+    <div class="carousel-item">
+      <img src="./img/GranBretaña/GB-8.jpg" class="d-block w-100" alt="Premio Gran Bretaña">
+    </div>
   </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -49,7 +69,7 @@ BtnGranBretana.addEventListener('click', (e) => {
 
 
 })
-// CLASICO ZUMARAN Y AROCENA 2023
+// CLASICO ZUMARAN Y AROCENA 2024
 const BtnZumaran = document.querySelector('.btn-zumaran')
 const HistoryZumaran = document.querySelector('.history-zumaran')
 const ContainerZumaran = document.querySelector('.container-zumaran')
@@ -66,6 +86,8 @@ BtnZumaran.addEventListener('click', (e) => {
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 3"></button>
             </div>
         <div class="carousel-inner">
     <div class="carousel-item active">
@@ -76,6 +98,12 @@ BtnZumaran.addEventListener('click', (e) => {
     </div>
     <div class="carousel-item">
       <img src="./img/Zumaran/za-3.jpg" class="d-block w-100" alt="Premio Zumaran">
+    </div> 
+    <div class="carousel-item">
+      <img src="./img/Zumaran/za-4.jpg" class="d-block w-100" alt="Premio Zumaran">
+    </div> 
+    <div class="carousel-item">
+      <img src="./img/Zumaran/za-5.jpg" class="d-block w-100" alt="Premio Zumaran">
     </div>  
   </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -120,7 +148,10 @@ BtnEEUU.addEventListener('click', (e) => {
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 3"></button>          
+                </div>
         <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="./img/EEUU/eeuu-1.jpg" class="d-block w-100" alt="Premio EEUU">
@@ -130,7 +161,16 @@ BtnEEUU.addEventListener('click', (e) => {
     </div>
     <div class="carousel-item">
       <img src="./img/EEUU/eeuu-3.jpg" class="d-block w-100" alt="Premio EEUU">
+    </div> 
+    <div class="carousel-item">
+      <img src="./img/EEUU/eeuu-4.jpg" class="d-block w-100" alt="Premio EEUU">
+    </div> 
+    <div class="carousel-item">
+      <img src="./img/EEUU/eeuu-5.jpg" class="d-block w-100" alt="Premio EEUU">
     </div>  
+    <div class="carousel-item">
+      <img src="./img/EEUU/eeuu-6.jpg" class="d-block w-100" alt="Premio EEUU">
+    </div> 
   </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -196,7 +236,8 @@ BtnUruguay.addEventListener('click', (e) => {
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 3"></button>
+                </div>
         <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="./img/Uruguay/uruguay-1.jpg" class="d-block w-100" alt="Premio Clásico Uruguay">
@@ -206,7 +247,10 @@ BtnUruguay.addEventListener('click', (e) => {
     </div>
     <div class="carousel-item">
       <img src="./img/Uruguay/uruguay-3.jpg" class="d-block w-100" alt="Premio Clásico Uruguay">
-    </div>  
+    </div> 
+    <div class="carousel-item">
+      <img src="./img/Uruguay/uruguay-4.jpg" class="d-block w-100" alt="Premio Clásico Uruguay">
+    </div> 
   </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -248,7 +292,8 @@ BtnBrasil.addEventListener('click', (e) => {
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 3"></button>
+                </div>
         <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="./img/Brasil/Brasil-1.jpg" class="d-block w-100" alt="Premio Clásico Brasil">
@@ -258,6 +303,9 @@ BtnBrasil.addEventListener('click', (e) => {
     </div>
     <div class="carousel-item">
       <img src="./img/Brasil/Brasil-3.jpg" class="d-block w-100" alt="Premio Clásico Brasil">
+    </div>  
+    <div class="carousel-item">
+      <img src="./img/Brasil/Brasil-4.jpg" class="d-block w-100" alt="Premio Clásico Brasil">
     </div>  
   </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -299,7 +347,10 @@ BtnYerbaAmarga.addEventListener('click', (e) => {
              <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 2"></button>
             </div>
         <div class="carousel-inner">
     <div class="carousel-item active">
@@ -307,6 +358,15 @@ BtnYerbaAmarga.addEventListener('click', (e) => {
     </div>
     <div class="carousel-item">
       <img src="./img/YerbaAmarga/YerbaAmarga-2.jpg" class="d-block w-100 alto"  alt="Handicap Especial Yerba Amarga">
+    </div>
+    <div class="carousel-item">
+      <img src="./img/YerbaAmarga/YerbaAmarga-3.jpg" class="d-block w-100 alto"  alt="Handicap Especial Yerba Amarga">
+    </div>
+    <div class="carousel-item">
+      <img src="./img/YerbaAmarga/YerbaAmarga-4.jpg" class="d-block w-100 alto"  alt="Handicap Especial Yerba Amarga">
+    </div>
+    <div class="carousel-item">
+      <img src="./img/YerbaAmarga/YerbaAmarga-5.jpg" class="d-block w-100 alto"  alt="Handicap Especial Yerba Amarga">
     </div>
     
   </div>
@@ -384,12 +444,11 @@ BtnTopoDoSoul.addEventListener('click', (e) => {
   </button>
 </div>
   <div class="card-body">
-      <p class="card-text"><strong>LINDA DAMA FUE SOBERBIA A SABIENDAS QUE LE DISPENSABA UNA "MONTAÑA" DE KILOS A SUS RIVALES!</strong> <br>
-      La carrera desde el comienzo tuvo a cuatro protagonistas: Wired Storm, Linda Dama, Catri y Play Keep; las tres primeras fueron las que
-      movieron la carrera seguidas de cerca por Play Keep. En los 200 dominó Linda Dama a Wired Strom por dentro se resistió Catri, por flanco
-      externo arremetió Play Keep para llegar segunda. Formidable desde punto de vista la actuación de Linda Dama, la elección de la carrera
-      por parte de su cuidadora Josiane Gulart y la conducción de Raúl Silvera, que buscó desde la largada hasta los 150 finales que la excelente
-      pinga no sintiese los 65.5 kilos recibidos.</p>
+      <p class="card-text"><strong>LOS KILOS NO IMPIDIERON LA 5TA VICTORIA AL HILO DE LINDA DAMA!</strong> <br>
+      Impresionante actuación de la hija de The Leopard,, que iba muy cargada, con 62 kilos, dando ventajas a sus rivales, que a pesar de ello, no pudieron vencer a la defensora del stud Fiorella e Ignacio. 
+      Con una excelente conducción de Javier Emanuel Pérez, esta vez Linda Dama no tomó la punta, siendo Jelea Real quien lidero la carrera, sin embargo Javier la mantuvo siempre cerca a un par de cuerpos de la puntera, al entrar en la recta final, la entrenada por Josiane Gulart dominó la carrera, pero Javier no la puso a correr enseguida, le guardo un restito, lo que le permitió resistir la formidable atropellada de Isadora Great, quien estuvo a punto de arrebatarle la victoria por un hocico.
+      Gano Linda Dama, que además de correr un disparate, demostró que también gana guapeando.
+</p>
   </div>        
       
   </div>`
@@ -586,9 +645,11 @@ BtnAlysTime.addEventListener('click', (e) => {
   </button>
 </div>
   <div class="card-body">
-      <p class="card-text"><strong>LINDA DAMA CORRE UN DISPARATE!!!</strong><br>
-      Volvió a demostrar ganando de punta a punta, Javier Emanuel Pérez de soberbio año la puso adelante y que la siguieran, 
-      trató de hacerlo Belma pero nunca fue de riesgo, ya en la recta final se veía que ganaba por lo que quería. Muy bien presentada por Josiane Gulart.</p>
+      <p class="card-text"><strong>LINDA DAMA DEMOSTRÓ QUE PASA POR EL MEJOR MOMENTO DE SU CAMPAÑA</strong><br>
+      La defensora del Stud Fiorella e Ignacio cazó la canasta de la mano de Javier Emanuel Perez y se vino hasta el disco,
+      Emanuel administró a la perfección a la muy bien presentada por Josiane Gulart ante muy buenas yeguas, cuando Nina Ricci la
+      fue a buscar rebotó y debió conformarse con un segundo puesto lejano, tercera entró Belma. 
+      LINDA DAMA en césped corre mucho más y puede ser la única que pueda destronar a Suprema D'or</p>
   </div>        
       
   </div>`
@@ -673,7 +734,7 @@ BtnArtic.addEventListener('click', (e) => {
     <img src="./img/ArticSun/ArticSun-1.jpg" class="d-block w-100" alt="Premio Artic Sun">
   </div>
   <div class="carousel-item">
-    <img src="./img//ArticSun/ArticSun-1.jpg" class="d-block w-100 alto"  alt="Premio Artic Sun">
+    <img src="./img//ArticSun/ArticSun-2.jpg" class="d-block w-100 alto"  alt="Premio Artic Sun">
   </div>  
   
 </div>
@@ -687,9 +748,10 @@ BtnArtic.addEventListener('click', (e) => {
   </button>
 </div>
   <div class="card-body">
-      <p class="card-text"><strong>LINDA DAMA GANÓ FACIL COMO SE ESPERABA!!</strong><br>
-      Fue de punta a punt, Javier Emanuel Pérez la administró a la perfección dejando al resto luchar por el segundo puesto,
-      tercera victoria para la hija de The Leopard y Radio Continental</p>
+      <p class="card-text"><strong>SE DESTAPÓ LINDA DAMA EN SU SEGUNDA VICTORIA CONSECUTIVA!!</strong><br>
+      La hija de The Leopard y Radio Continental parece haber madurado notablemente en estos últimos tiempos. Vagner Leal la posicionó en tercer lugar 
+      a un par de cuerpos de la puntera Joga Beijo y Bajo Amenaza, al entrar en La recta final empezo a acercarse y en los 
+      últimos 300 metros Vagner movió a la entrenada por Josiane Gulart para que se destacara y confirmara este buen momento.</p>
   </div>        
       
   </div>`
@@ -764,3 +826,11 @@ BtnFollowing4.addEventListener('click', (e) => {
 
 }
 );
+
+// Codigo para pasar de la 5 a la 4
+const BtnBack5 = document.querySelector('.btn-following-5');
+BtnBack5.addEventListener('click', (e) => {
+    ContainerGalery4.style.display = 'block';
+    ContainerGalery5.style.display = 'none';
+})
+

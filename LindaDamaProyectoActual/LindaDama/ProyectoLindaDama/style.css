@@ -168,3 +168,8 @@
     margin-top: 100px;
     
 }
+
+.btn-galery-five {
+    display: flex;
+    justify-content: space-around;
+}
